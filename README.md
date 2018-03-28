@@ -1,5 +1,9 @@
 # Angular 4 - aprendendo inglês
 
+## Available on Amazon Cloud
+
+http://aprendendo-ingles-angular.s3-website-sa-east-1.amazonaws.com/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
